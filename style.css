@@ -58,3 +58,41 @@ nav {
   color: #4caf4f;
   background-color: transparent;
 }
+
+/* hero session */
+.hero-session{
+  background-color: #f5f7fa;
+  display: flex;
+  
+}
+.lesson-insight{
+  font-size: 45px;
+  font-weight: bold;
+  line-height: 55px;
+}
+.number-year{
+ color: #4caf4f;                
+}
+.choose-site{
+  font-size: 13px;
+  color: gray;
+  margin-top: 15px;
+}
+.main-button {
+  padding: 10px 20px;
+  border: 0;
+  outline: 0;
+  border-radius: 5px;
+  color: white;
+  margin-top: 35px;
+}
+.hero-right img{
+  width: 300px;
+}
+
+.hero-left{
+  margin: 70px 100px 0 80px;
+}
+.hero-right{
+  margin: 50px 0 20px 80px;
+}
