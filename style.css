@@ -96,3 +96,83 @@ nav {
 .hero-right{
   margin: 50px 0 20px 80px;
 }
+
+/* main session */
+.main-client{
+  font-size: 17px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.main-client2{
+  font-size: 12px;
+  color: gray;
+}
+.main-top{
+  text-align: center;
+  line-height: 22px;
+  margin-top: 18px;
+}
+.main-logo img{
+ width: 22px;
+}
+.main-logo{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  margin: 20px 0 30px 0;
+}
+/* group session */
+.group-detail img{
+  width: 32px;
+}
+
+.group-p{
+  font-size: 13px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.group-detail{
+border-radius: 5px;
+padding: 10px 15px;
+box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+}
+.group-session{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  gap: 75px;
+  margin-top: 25px;
+}
+/* nain session 2 */
+.duration img{
+  width: 250px;
+}
+.duration{
+  margin-right: 60px;
+}
+.duration-main{
+  margin-top: 42px;
+}
+.duration-session{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+/* business session */
+.general-business{
+   background-color: #f5f7fa;
+}
+.business-p{
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 18px;
+}
+.business-p2{
+  color:#4caf4f;;
+}
+.work{
+  font-size: 10px;
+  color: gray;
+  margin-top: 8px;
+}
